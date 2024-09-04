@@ -1,0 +1,62 @@
+
+
+.hab {
+    width: 100%;
+    height: auto;
+    background-color: #00060D ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tit_titu {
+    padding: 20px 0px 20px 0px;
+    width: 100%;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #f1f1f1;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.tit_sena {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+}
+
+.img_tit {
+    height: 300px;
+    width: 200px;
+    margin: 20px 0px 20px 0px;
+}
+
+.img_titu_js{
+    height: 200px;
+    width: 300px;
+    margin: 20px 0px 20px 0px;
+}
+
+.textosTit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.tex_tit {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #fff;
+}
+
+.info{
+    color: #93f3f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+

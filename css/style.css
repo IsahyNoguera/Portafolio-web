@@ -1,0 +1,246 @@
+body {
+
+    background-color: #00060D;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    width: 100%;
+    background-color: #00060D;
+}
+
+.tit {
+    display: flex;
+    background-color: #00060D;
+    height: 100%;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+
+}
+
+.yo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.texTitNav {
+    font-size: 15;
+    background-color: #00060D;
+    color: #ffffff;
+    margin: 0px 10px 0px 10px;
+}
+
+.butNav {
+    width: 40%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-left: 70px;
+}
+
+.redes {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0px 40px 0px 40px;
+    justify-content: center;
+}
+
+
+.sobMi {
+    font-size: 1.375rem;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Nerko One", cursive;
+}
+
+.github {
+    font-size: 1.375rem;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Nerko One", cursive;
+}
+
+.linked {
+    font-size: 1.375rem;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Nerko One", cursive;
+}
+
+
+.yo2 {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 50%;
+    border: solid 2px #ffffff;
+}
+
+.conte {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.sobremi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+
+.nom {
+    font-size: 3.125rem;
+    color: #00f1ff;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+}
+
+
+.ape {
+    font-size: 3.125rem;
+    color: #EEEEEE;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+}
+
+.textSob {
+    color: #fff;
+    width: 40%;
+    height: 200px;
+    padding: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
+}
+
+.port {
+    width: 100%;
+    height: 1100px;
+    background-color: #081526 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo_pro {
+    padding: 20px 0px 20px 0px;
+    width: 100%;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #f1f1f1;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.encriptador{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    background-color: #172D40;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.encriptador_img {
+    display: inline-block;
+    padding: 50px;
+    height: 200px;
+    width: 400px;
+}
+
+.text_proy_exp{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content:center;
+    height: 80%;
+}
+
+.enc_tex{
+    font-size: 2rem;
+    color: #00f1ff;
+    text-decoration:  none;
+    
+}
+
+.explicacion {
+    font-size: 20px;
+    color: #fff;
+    margin: 30px 0px 10px 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+.numero_sec {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    background-color: #172D40;  
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.numero_img {
+    padding: 50px;
+    height: 200px;
+    width: 400px;
+}
+
+.num_tex{
+    font-size: 2rem;
+    color: #00f1ff;
+    text-decoration:  none;
+}
+
+.sep {
+    height: 20px;
+}
+
+
+.sagi {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    background-color: #172D40;  
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.sagi_img {
+    padding: 50px;
+    height: 200px;
+    width: 400px;
+}
+
+.sagi_tex {
+    font-size: 2rem;
+    color: #00f1ff;
+    outline: none;
+    
+}
+
+
+.marc {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+
